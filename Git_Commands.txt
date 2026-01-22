@@ -13,3 +13,16 @@ git push -u origin main
 git remote add origin https://github.com/supriyabhoir/CoreJava_Jan2026.git
 git branch -M main
 git push -u origin main
+
+=========================
+git status
+
+git add filename
+OR
+git add .
+
+git commit -m "second commit"
+
+git branch -M main
+
+git push -u origin main
